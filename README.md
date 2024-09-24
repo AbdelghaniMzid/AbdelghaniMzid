@@ -15,17 +15,9 @@ Some of my key responsibilities include:
 
 
 ## 🛠 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Arduino](https://img.shields.io/badge/Arduino-Uno-brightgreen)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-TensorFlow-orange)
+- **Robotics Programming**: KUKA
+- **Programming Languages**: C, Python, JavaScript, SQL
+- **Frameworks**: React
+- **Data Science & AI**: Natural Language Processing (NLP), MATLAB, Simulink
+- **Version Control**: GitHub
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelghaniMzid&show_icons=true&theme=radical)
-
-## 🚀 Projects
-- [Smart Fridge Monitoring System](https://github.com/AbdelghaniMzid/fridge-control-arduino)
-- [AI-powered Vehicle Data Analysis](https://github.com/your-username/vehicle-data-analysis)
-
-## 🌐 Get in touch
-- [LinkedIn](https://www.linkedin.com/in/abdelghani-mzid)
-- [Email](mailto:abdelghani.mzid@example.com)
