@@ -26,8 +26,6 @@ Some of my key responsibilities include:
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2021b-orange?style=flat&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-Simulation-blue?style=flat&logo=mathworks&logoColor=white)
 
----
-
 ![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black?style=flat&logo=github&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-Office-blue?style=flat&logo=microsoft&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google-Drive-blue?style=flat&logo=googledrive&logoColor=white)
