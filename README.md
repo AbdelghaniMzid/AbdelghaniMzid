@@ -25,4 +25,11 @@ Some of my key responsibilities include:
 ![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-green?style=flat&logo=machine-learning&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2021b-orange?style=flat&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-Simulation-blue?style=flat&logo=mathworks&logoColor=white)
+
+---
+
 ![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black?style=flat&logo=github&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Office-blue?style=flat&logo=microsoft&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google-Drive-blue?style=flat&logo=googledrive&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-green?style=flat&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google-Sheets-green?style=flat&logo=googlesheets&logoColor=white)
