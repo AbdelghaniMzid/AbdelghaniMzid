@@ -15,9 +15,14 @@ Some of my key responsibilities include:
 
 
 ## 🛠 Technologies & Tools
-- **Robotics Programming**: KUKA
-- **Programming Languages**: C, Python, JavaScript, SQL
-- **Frameworks**: React
-- **Data Science & AI**: Natural Language Processing (NLP), MATLAB, Simulink
-- **Version Control**: GitHub
 
+![KUKA](https://img.shields.io/badge/KUKA-Robotics-orange?style=flat&logo=robot-framework&logoColor=white)
+![C](https://img.shields.io/badge/C-Programming-blue?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-red?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-JS-blue?style=flat&logo=react&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-green?style=flat&logo=machine-learning&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2021b-orange?style=flat&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-Simulation-blue?style=flat&logo=mathworks&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black?style=flat&logo=github&logoColor=white)
